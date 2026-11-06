@@ -1,0 +1,9 @@
+{
+  "name": "crumple-zone-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serves the Crumple Zone game and relays party multiplayer over WebSockets (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
